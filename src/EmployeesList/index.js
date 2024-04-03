@@ -39,7 +39,7 @@ const handleDelete = async (employeeID) => {
     
     <div className="employeelist">
   
- <h1>EMPLOYEESLIST</h1>   
+ <h1>EMPLOYEES LIST</h1>   
 <table className="table table-striped ">
     <thead>
         <tr>
