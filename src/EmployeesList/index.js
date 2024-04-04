@@ -37,7 +37,7 @@ const handleDelete = async (employeeID) => {
 
      return(
     
-    <div className="employeelist">
+    <div className="employeelist" style={{overflowY: "scroll",maxWidth: "100vw"}}>
   
  <h1>EMPLOYEES LIST</h1>   
 <table className="table table-striped ">
